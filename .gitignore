@@ -58,6 +58,7 @@ target/
 
 # project Specific
 *.idea
+*.idea/*
 local_settings.ini
 local_test
 local_test/*
